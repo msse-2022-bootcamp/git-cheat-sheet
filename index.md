@@ -4,7 +4,7 @@ Logo" height="200"/></div>
 
 <div style="text-align: center; margin-bottom: 1em">
 	<h1 style='margin: 0; padding: 0; border-bottom: none'>Git Cheat Sheet</h1>
-	<a href="https://github.com/JoaoRodrigues/git-cheat-sheet/raw/master/git-cheat-sheet.pdf">PDF version</a>
+	<a href="https://github.com/msse-2022-bootcamp/git-cheat-sheet/raw/main/git-cheat-sheet.pdf">PDF version</a>
 </div>
 
 ## Git Configuration
