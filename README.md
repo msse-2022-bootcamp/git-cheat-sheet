@@ -1,7 +1,7 @@
 # Git Cheat Sheet
 
 Feel free to use this cheat sheet for yourself or for teaching workshops. You can see it rendered
-as an HTML page [here](https://msse-2020-bootcamp.github.io/git-cheat-sheet/) or download it as a PDF
+as an HTML page [here](https://msse-2022-bootcamp.github.io/git-cheat-sheet/) or download it as a PDF
 file [here](git-cheat-sheet.pdf).
 
 ## Contributing
